@@ -1,6 +1,6 @@
-# Project-Management-Software-master
+# Project-Management-Software
 It is my Smart Gujarat For New India Hackathon 2019-2020 Project.
-
+ 
 
 ### Installation
 + Upload files to your web server
@@ -27,10 +27,7 @@ It is my Smart Gujarat For New India Hackathon 2019-2020 Project.
 + PHPMailer
 
 ### More:
-+ MULTI LANGUAGE (EN, BG, DE, FR are included, easy can add another one, just learn how in dev documentation!)
-+ Error log
 + RESPONSIVE DESIGN
-+ Email synchronization for tickets!!
 + Easy to understand documentation of all source code for developers and User Guide
 
 ### Included tools:
@@ -48,28 +45,20 @@ It is my Smart Gujarat For New India Hackathon 2019-2020 Project.
 + Issue tracking system
 + Issue comments
 + Advanced search filter for issues
-+ Create wiki spaces
-+ Create wiki templates for pages
-+ Create wiki pages (in easy to understand tree structure)
-+ Wiki activity stream
 + User notifications
 + User password strength generator (bootstrapped)
-+ Wiki search field
 + Profile view
 + Users listing
 + User privileges
-+ User information (facebook, email, etc.)
++ User information (email, etc.)
 + User fast filtering memory
-+ Ticket/Wiki statistics
 + Managing of projects (Features multiple projects)
 + Can choose default system language and each user can choose his individual
 + Change login logo
-+ You can set email account imap/pop3 and smtp for your project and can get emails like tickets and answer it in comments, it seamlessly routes inquiries created via email to tickets (you can attach files, send emails from system, send html formated emails)!!
 + Logs for every error from emails and everything other in system!
 + Price per hour  - tracking worked time and costs to date for all hours.
 + Currency convertor at real time with values from google
 + ETC..!
-+ Cron job for tething emails from email server
 
 ### Requirements
 + MySQL 4.1.1+
