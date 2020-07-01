@@ -37,16 +37,8 @@ $projects = $this->getProjects();
                 </div>
             </div>
             <div class="row going">
-                <!--<div class="col-sm-6 text-right bg-choice right">
-                    <a id="gotowiki" href="#">
-                        <i class="fa fa-angle-left pull-left"></i> 
-                        <?= $this->lang_php['go_to_wiki'] ?>
-                    </a>
-                </div> -->
                 <div class=" text-center bg-choice">
                     <a id="gototickets" href="#">Go To Projects
-                        <!--<?= $this->lang_php['go_to_tickets'] ?> 
-                        <i class="fa fa-angle-right pull-right"></i>--> 
                     </a>
                 </div>
             </div>
